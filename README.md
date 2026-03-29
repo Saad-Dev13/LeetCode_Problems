@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/0136-single-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
