@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+## Greedy
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
