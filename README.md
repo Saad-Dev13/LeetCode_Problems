@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/0136-single-number) |
 | [2751-robot-collisions](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/2751-robot-collisions) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Sorting
 |  |
 | ------- |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/2751-robot-collisions) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+## Matrix
+|  |
+| ------- |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 <!---LeetCode Topics End-->
