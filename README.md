@@ -91,4 +91,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
