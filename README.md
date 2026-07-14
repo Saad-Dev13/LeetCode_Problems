@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/0874-walking-robot-simulation) |
 | [2463-minimum-total-distance-traveled](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/2751-robot-collisions) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2463-minimum-total-distance-traveled](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/2463-minimum-total-distance-traveled) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
+## Math
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
