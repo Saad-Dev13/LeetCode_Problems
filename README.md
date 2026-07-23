@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/0136-single-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
