@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3731-find-missing-elements](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3731-find-missing-elements](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saad-Dev13/LeetCode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
